@@ -1,1 +1,1 @@
-A simple google maps clone using mapbox
+                                             A Simple Google Maps Clone Using Mapbox
